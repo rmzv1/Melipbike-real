@@ -1,0 +1,14 @@
+#Impedir el listado de directorios
+IndexIgnore *.php *.js *.css *.map *.jpg *.png *.eot *.svg *.ttf *.woff *.woff2 *.otf *.txt
+
+#Habilitar reglas de sobre escritura
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+#denegar acceso .htaccess
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+
