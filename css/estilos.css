@@ -264,7 +264,7 @@ footer i{
 /*-------------estilos de servicios----------*/
 
 .fondo-servicios{
-    background: url("../img/fondo-servicios1.jpg")center;
+    background: url("../img/seccion-servicios.png")center;
     background-size: cover;
     height: 280px;
 }
@@ -279,8 +279,10 @@ footer i{
 }
 
 .categoria-servicios{
-    background: url(../img/fondo-servicios3.jpg);
-    background-color: #0C4566;
+    background: url(../img/seccion-servicios2.png);
+    background-size: cover;
+    align-self: center;
+    background-position-y: 50%;
 }
 
 .servicio-tecnico, .accesorios, .asesorias{
@@ -317,7 +319,9 @@ footer i{
 }
 
 .fondo-servicios2{
-    background: url("../img/fondo-servicios2.jpg")center;
+    background: url("../img/seccion-servicios3.png") no-repeat;
+    background-size: cover;
+    background-position-y: 20%;
     height: 300px;
     font-weight: bold;
     text-align: start;
@@ -327,7 +331,9 @@ footer i{
 
 /*---------estilos de trabajos----------*/
 .fondo-trabajos{
-    background: url("../img/fondo-trabajos.jpg") center;
+    background: url("../img/seccion-trabajos.png");
+    background-size: cover;
+    background-position-y: 50%;
 }
 
 .fondo-trabajos-realizados{
