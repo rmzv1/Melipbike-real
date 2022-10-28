@@ -106,7 +106,7 @@ h2,h3 {
 }  
 
 .seccion-videos{
-    background: url("../img/fondo-videos.jpg");
+    background: url("../img/seccion-videos.jpg");
     padding: .5em 0;
 }
 
@@ -125,13 +125,13 @@ h2,h3 {
 }
 
 .fondo1{
-    background: url("../img/fondo-horario1.png") center no-repeat;
+    background: url("../img/fondo-horario1.jpg") center no-repeat;
     background-size: cover;
 
 }
 
 .fondo2{
-    background: url("../img/servicios-inicio1.png") center;
+    background: url("../img/servicios-inicio1.jpg") center;
     background-size: cover;
 }
 
@@ -211,9 +211,11 @@ footer i{
 /*--------------- estilos de nosotros-----------*/
 
 .nosotros-informacion .fondo1-nosotros{
-    background: url("../img/fondo1-nosotros.jpg") center;
+    background: url("../img/seccion-nosotros.jpg");
+    background-size: cover;
     height: 250px;
     width: 100%;;
+    background-position-y: 30%;
     text-align: start;
 }
 
@@ -228,9 +230,11 @@ footer i{
 }
 
 .nosotros-informacion .fondo2-nosotros{
-    background: url("../img/fondo2-nosotros.jpg") center;
+    background: url("../img/seccion-nosotros.jpg");
+    background-size: cover;
     height: 250px;
     width: 100%;;
+    background-position-y: 71%;
     text-align: start;
 }
 
@@ -264,7 +268,7 @@ footer i{
 /*-------------estilos de servicios----------*/
 
 .fondo-servicios{
-    background: url("../img/seccion-servicios.png")center;
+    background: url("../img/seccion-servicios.jpg")center;
     background-size: cover;
     height: 280px;
 }
@@ -279,7 +283,7 @@ footer i{
 }
 
 .categoria-servicios{
-    background: url(../img/seccion-servicios2.png);
+    background: url(../img/seccion-servicios2.jpg);
     background-size: cover;
     align-self: center;
     background-position-y: 50%;
@@ -319,7 +323,7 @@ footer i{
 }
 
 .fondo-servicios2{
-    background: url("../img/seccion-servicios3.png") no-repeat;
+    background: url("../img/seccion-servicios3.jpg") no-repeat;
     background-size: cover;
     background-position-y: 20%;
     height: 300px;
@@ -331,7 +335,7 @@ footer i{
 
 /*---------estilos de trabajos----------*/
 .fondo-trabajos{
-    background: url("../img/seccion-trabajos.png");
+    background: url("../img/seccion-trabajos.jpg");
     background-size: cover;
     background-position-y: 50%;
 }
@@ -378,7 +382,7 @@ footer i{
 /*--------------estilos contacto---------------*/
 
 .fondo-contacto{
-    background: url("../img/fondo-contacto1.png");
+    background: url("../img/fondo-contacto1.jpg");
     background-size: contain;
     
 }
