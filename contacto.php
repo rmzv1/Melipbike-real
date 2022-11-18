@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/favicon.png">
-    <title>Melipbike/Proyectos</title>
+    <title>Melipbike/Contacto</title>
 
 </head>
 
@@ -57,7 +57,7 @@
             <i class="fab fa-whatsapp fa-2x"></i>
             <p>+56953087843</p>
             <i class="fas fa-envelope fa-2x"></i>
-            <p>Melipbike@gmail.com</p>
+            <p>asesorias@melipbike.cl</p>
         </div>
         <div class="col-9 col-md-6 formulario">
             <h2 class="mb-3">ESCRIBENOS AHORA</h2>
@@ -70,7 +70,7 @@
                     <input type="text" class="form-control" name="correo" placeholder="Correo" required>
                 </div>
                 <div class="form-group">
-                    <input type="text" class="form-control" name="telefono" placeholder="Telefono" required>
+                    <input type="text" class="form-control" name="asunto" placeholder="Asunto" required>
                 </div>
                 <div class="form-group">
                     <textarea class="form-control" name="mensaje" rows="3" placeholder="Mensaje" required></textarea>

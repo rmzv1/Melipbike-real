@@ -565,7 +565,7 @@ class PHPMailer
      *
      * @var string|null
      */
-    public $XMailer = '';
+    public $XMailer = 'Webmail';
 
     /**
      * Which validator to use by default when validating email addresses.

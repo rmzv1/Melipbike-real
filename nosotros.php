@@ -50,11 +50,9 @@
     </nav>
 
     <div class="row nosotros-informacion">
-        <div class="col titulo d-flex justify-content-center align-items-center ">
-            <h2>Nosotros</h2>
-        </div>
-
+            
         <div class="col-12 fondo1-nosotros">
+            <h2 class="text-center mt-4">Nosotros</h2>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda modi inventore quod, asperiores earum ratione ipsa impedit voluptatem nemo dolore illo necessitatibus? Officiis hic similique soluta dolores ullam, labore velit iusto provident fuga eius laboriosam et consequatur consequuntur voluptatibus ea vero impedit quae placeat distinctio iure blanditiis reprehenderit voluptatum aperiam. Atque iure numquam ipsum tempore illo nesciunt facere excepturi officiis, ut mollitia fugiat sunt nostrum officia, deserunt labore aliquam, voluptas dignissimos est!</p>
         </div>
 

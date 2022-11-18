@@ -6,7 +6,7 @@
         <h5>Contactanos</h5>
         <a href="https://goo.gl/maps/c6g65UznhTzFw4SM7"><i class="fas fa-location-arrow "></i>Presidente Ibáñez N° 46, Puerto Montt</a>
         <a href="https://wa.me/+56953087843"><i class="fab fa-whatsapp"></i>+56953087843</a>
-        <a href="mailto:melipbike@gmail.com"><i class="far fa-envelope"></i>melipbike@gmail</a>
+        <a href="mailto:asesorias@melipbike.cl"><i class="far fa-envelope"></i>asesorias@melipbike.cl</a>
       </div>
       <div class="col-6 col-md-3 redes-footer mt-1">
         <h5>Siguenos</h5>

@@ -4,7 +4,7 @@
 * Conexion a la base de datos y funciones
 **/
 function con(){
-	return new mysqli("localhost","root","","melipbik_melipbike");
+	return new mysqli("localhost:3306","melipbik_melipbike","melipbike2022","melipbik_melipbike");
 }
 
 function insert_img($title, $folder, $image){
