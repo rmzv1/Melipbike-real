@@ -67,17 +67,13 @@
         </div>
         <div class="row">
             <div class="col-sm-12 col-md-4">
-                <h2 class="mt-4">Certificado 1</h2>
-                <img class="img-fluid imagen" src="img/certificado1.png" alt="Este es el certficado 1">
-
+                <img class="img-fluid imagen" src="img/certificado1.png">
             </div>
             <div class="col-sm-12 col-md-4">
-                <h2 class="mt-4">Certificado 2</h2>
-                <img class="img-fluid imagen" src="img/certificado2.png" alt="Este es el certficado 2">
+                <img class="img-fluid imagen" src="img/certificado2.png">
             </div>
             <div class="col-sm-12 col-md-4">
-                <h2 class="mt-4">Certificado 3</h2>
-                <img class="img-fluid imagen" src="img/certificado3.png" alt="Este es el certficado 3">
+                <img class="img-fluid imagen" src="img/certificado3.png" >
             </div>
         </div>
     </div>

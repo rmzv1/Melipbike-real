@@ -55,8 +55,8 @@ $images = galeria_imgs();
     </nav>
 
     <div class="row fondo-trabajos justify-content-center align-items-center">
-        <div class="col-12 col-md-8 mt-4 mb-5">
-            <h2>Nuestros Proyectos</h2>
+        <div class="col-12 mt-4 mb-5">
+            <h2 class="mb-3">Nuestros Proyectos</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non natus quo iure! Molestiae, fuga fugiat? Suscipit corrupti aliquam, quibusdam quia fuga aperiam fugit inventore, assumenda impedit commodi facere, nulla aliquid illo delectus veritatis consectetur laudantium qui ducimus. Iure aperiam, a, hic voluptas repudiandae exercitationem officiis sint dolore ab vel quas?</p>
         </div>
     </div>

@@ -249,6 +249,11 @@ footer i{
     margin-bottom: 3em;
 }
 
+.certficaciones img:hover{
+    opacity: .5;
+    cursor: pointer;
+}
+
 .modal-content {
     background-color: transparent !important;
     border: none !important;
@@ -346,7 +351,10 @@ footer i{
 }
 
 .fondo-trabajos p{
-    text-align: start;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: center;
     border: 3px solid #fcfcfc;
     padding: 1em;
     font-weight: bold;
